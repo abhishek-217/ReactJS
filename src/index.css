@@ -1,0 +1,123 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+ 
+
+/* CSS use in react */
+
+
+/* body {
+  margin: 0;
+  padding: 0;
+  background-color: #b4f2e1;
+  box-sizing: border-box;
+}
+
+div {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -30px;
+}
+
+h1 {
+  padding: 20px 20px;
+  background-color: #ffe9c5;
+  column-rule-color: #fa9191;
+  border-radius: 21px;
+}
+
+span {
+  color: #fa9191;
+} */
+
+
+
+/* .heading{
+  color: blueviolet;
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: bold;
+  text-shadow: 8vh;
+  margin: 50px 0;
+  font-family: "Protest Guerrilla", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  
+  
+  
+} */
+
+/* .divs{
+  display: flex;
+  justify-content: center;
+}
+
+.divs img{
+  width: 200px;
+  height: 150px;
+} */
+
+
+
+
+
+/*  Hooks */
+
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  background-color: lightsalmon;
+}
+
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 46px;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+button{
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  font-size: 15px;
+  text-transform: uppercase;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  margin-top: 60px;
+  border-radius: 5px;
+  font-weight: 600;
+  background-color: rgb(243, 103, 243);
+  color: white;
+  border: 1px solid black;
+  border-top-style: calc();
+  cursor: pointer;
+  width: 150px;
+  height: 50px;
+
+}
+button:active{
+  color:wheat;
+}
+button:hover{
+  font-size: 20px;
+  background-color: rgb(255, 60, 255);
+}
